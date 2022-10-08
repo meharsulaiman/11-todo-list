@@ -1,0 +1,8 @@
+.about {
+    font-size: 40px;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+}

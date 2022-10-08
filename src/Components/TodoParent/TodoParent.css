@@ -1,0 +1,17 @@
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0 100px;
+}
+
+.text-todo {
+    width: 40%;
+    margin: 50px auto;
+}
+
+
+@media only screen and (max-width: 990px) {
+    .flexbox {
+        flex-direction: column;
+    }
+}
